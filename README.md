@@ -1,3 +1,5 @@
+# Replaced in ckeditor 4.4.7 from ckeditor 4.4.6.
+
 # Ckeditor
 
 CKEditor is a WYSIWYG text editor designed to simplify web content creation. It brings common word processing features directly to your web pages. Enhance your website experience with our community maintained editor.
@@ -146,7 +148,7 @@ Adding a custom toolbar:
 
 CKEDITOR.editorConfig = function (config) {
   // ... other configuration ...
-  
+
   config.toolbar_mini = [
     ["Bold",  "Italic",  "Underline",  "Strike",  "-",  "Subscript",  "Superscript"],
   ];
