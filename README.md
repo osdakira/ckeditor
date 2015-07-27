@@ -1,4 +1,4 @@
-# Replaced in ckeditor 4.4.7 from ckeditor 4.4.6.
+# Update ckeditor version 4.5.1(full)
 
 # Ckeditor
 
